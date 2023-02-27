@@ -2,7 +2,6 @@
 - 👀 I’m interested in system infrastructure
 - 🌱 I’m currently learning Docker and Python
 - 💞️ I’m looking to collaborate on more open source Docker projects
-- 📫 How to reach me ... Via Discord Bramble#8919
 
 <!---
 Brramble/Brramble is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
