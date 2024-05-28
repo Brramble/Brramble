@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brramble
-- 👀 I’m working in system infrastructure
+- 👀 I’m working in IT infrastructure, specifically data centres
 - 🌱 I’m currently learning Docker and Python
 
 <!---
